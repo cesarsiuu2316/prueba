@@ -110,7 +110,7 @@
 
 ---
 
-## :black_circle: Salida - S7_SobrecargaOperadores_V2.cpp
+## :white_circle: Salida - S7_SobrecargaOperadores_V2.cpp
 
 ![](images/9_Salida.png)
 
